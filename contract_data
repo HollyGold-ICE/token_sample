@@ -3,6 +3,6 @@
   "description": "Test contract description",
   "image": "https://raw.githubusercontent.com/HollyGold-ICE/token_sample/master/art1.jpeg",
   "external_link": "https://www.google.com",
-  "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
-  "fee_recipient": "0x580ACc1C6Ecc9798853A2308489323d5eDE1B802" # Where seller fees will be paid to.
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x580ACc1C6Ecc9798853A2308489323d5eDE1B802"
 }
